@@ -7,5 +7,5 @@
 6 Git push -u origin master para enviar os arquivos além de criar um ramo no repositório remoto.\
 7 Criei outra pasta para simular a criação de um clone.\
 8 Usei o Git config(já tinha utilizado antes) para renomear meus dados, usei o Git clone e fiz uma mudança no arquivo.\
-9 Usei o Git push novamente e em seguida um Git pull na pasta principal.\
+9 Usei o Git push novamente e em seguida um Git pull na pasta principal.
 
